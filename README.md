@@ -1,6 +1,7 @@
 # Michael Ogungbe
 
 **Lead BI & Data Engineer · SAP · Microsoft Fabric · Power BI**
+
 Lagos, Nigeria · open to UK roles (Skilled Worker sponsorship) and remote · works full UK business hours
 
 I build the path from SAP to the people who run the business: ABAP CDS extraction views, Microsoft Fabric pipelines and Power BI models for manufacturing, supply chain and procure-to-pay. 6+ years in data and BI, currently leading BI and data engineering at GZ Industries, West Africa's leading aluminium can manufacturer.
